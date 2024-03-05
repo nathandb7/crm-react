@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Nathan",
+      "empresa": "dev",
+      "email": "nathan@dev.com",
+      "telefono": "102013313",
+      "notas": "Nueva Nota",
+      "id": "1"
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Google",
+      "email": "karen_nuevo@mail.com",
+      "telefono": "138198313",
+      "notas": "Karen desea una REST API",
+      "id": "2"
+    },
+    {
+      "nombre": "Miguel",
+      "empresa": "Google",
+      "email": "miguel@mail.com",
+      "telefono": "319381983",
+      "notas": "w",
+      "id": "4"
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "React",
+      "email": "pedro@mail.com",
+      "telefono": "1398198938",
+      "notas": "react",
+      "id": "5"
+    },
+    {
+      "nombre": "Juan Desde React",
+      "empresa": "React",
+      "email": "correo@mail.com",
+      "telefono": "10901",
+      "notas": "El Cliente desea un ecommerce",
+      "id": "6"
+    }
+  ]
+}
